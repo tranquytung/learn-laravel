@@ -19,7 +19,13 @@
 
 1. Bài 0.0: Chuẩn bị
   - Yêu cầu : 
+    - Chạy được laravel trên máy tính của mình.
+    - Chạy được phpunit để test.
   - Mục tiêu : 
+    - Cài đặt, cấu hình để chạy Laravel trên máy.
+    - Biết chạy phpunit
+    - 
   - Chi tiết nhiệm vụ : 
+    - Fork sau đó clone về máy repo này 
   
 2. Bài 0.1:  
